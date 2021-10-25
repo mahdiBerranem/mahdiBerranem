@@ -2,7 +2,7 @@
 
 I'm an Artificial intelligence and data processing Master's degree graduate :mortar_board:, passionate engineer, fast learner, motivated by challenges, and interested in data science.:bulb:
 
-I also do web developement and mobile, i enjoy learning new programming languages and frameworks like FLASK, Django and flutter.
+I also do web developement and mobile, i enjoy learning new programming languages and frameworks like Django and flutter.
 
 Skills: Python/Computer vision/NLP
 
