@@ -6,7 +6,7 @@ I also do web developement and mobile, i enjoy learning new programming language
 
 Skills: Python/Computer vision/NLP
 
-- 🔭 I’m currently working on The Eye Can Talk Project
+- 🔭 I’m currently working on The Eye Can Talk and NUMIDOO Projects
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on More Medical Image Analysis Projects
 
