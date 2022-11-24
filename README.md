@@ -8,7 +8,7 @@ Skills: Python/Computer vision/NLP
 
 - 🔭 I’m currently working on The Eye Can Talk and NUMIDOO Projects
 - 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on More Medical Image Analysis Projects
+- 👯 I’m looking to collaborate on Data science Projects
 
 
 
