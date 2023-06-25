@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an Artificial intelligence and data processing Master's degree graduate :mortar_board:, a passionate engineer, fast learner, motivated by challenges, and interested in data science.:bulb:
+I'm an experienced software engineer, I have a Master's degree in Artificial intelligence and data processing :mortar_board:, a fast learner, motivated by challenges, and interested in data science.:bulb:
 
 I also do web development and mobile, I enjoy learning new programming languages and frameworks like Django and Flutter.
 
