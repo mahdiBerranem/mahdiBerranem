@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-I'm an Artificial intelligence and data processing Master's degree graduate :mortar_board:, passionate engineer, fast learner, motivated by challenges, and interested in data science.:bulb:
+I'm an Artificial intelligence and data processing Master's degree graduate :mortar_board:, a passionate engineer, fast learner, motivated by challenges, and interested in data science.:bulb:
 
-I also do web developement and mobile, i enjoy learning new programming languages and frameworks like Django and flutter.
+I also do web development and mobile, I enjoy learning new programming languages and frameworks like Django and Flutter.
 
 Skills: Python/Computer vision/NLP
 
-- 🔭 I’m currently working on The Eye Can Talk and NUMIDOO Projects
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on Data science Projects
+- 🔭 I’m currently working on The Eye Can Talk and NUMIDOO ERP Projects
+- 🌱 I’m currently learning MERN Stack
+- 👯 I would be happy to contribute on an open sources projects
+- 📫 How to reach me: https://www.linkedin.com/in/berranem-mahdi
 
 
 
