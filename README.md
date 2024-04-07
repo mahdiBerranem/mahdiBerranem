@@ -6,7 +6,7 @@ I also do web development and mobile, I enjoy learning new programming languages
 
 Skills: Python/Computer vision/NLP
 
-- 🔭 I’m currently working on The Eye Can Talk and NUMIDOO ERP Projects
+- 🔭 I’m currently working on The Eye Can Talk and an ERP Projects
 - 🌱 I’m currently learning MERN Stack
 - 👯 I would be happy to contribute on an open sources projects
 - 📫 How to reach me: https://www.linkedin.com/in/berranem-mahdi
