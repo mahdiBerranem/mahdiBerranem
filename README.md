@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br><br>Hi i'm Mahdi✨<br>An experienced Software engineer💻<br>🔭 Currently working as an Odoo Developer<br>👯 I would be happy to contribute to open-source projects (especially AI projects)<br>🌱 Learning Pyspark
+# Hi i'm Mahdi✨
+💻 An experienced Software engineer <br><br>🔭 Currently working as an Odoo Developer<br>👯 I would be happy to contribute to open-source projects (especially AI projects)<br>🌱 Learning Pyspark
 
 
 ## 🌐 Socials:
